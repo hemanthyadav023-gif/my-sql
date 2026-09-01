@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/hemanthyadav023-gif/my-sql/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/hemanthyadav023-gif/my-sql/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/hemanthyadav023-gif/my-sql/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
